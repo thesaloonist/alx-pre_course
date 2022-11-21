@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-#!/bin/bash
-git pull
-
-=======
-git add .
-git commit -m “How to be up to date in git”
-git push
->>>>>>> 3c844bbb8368464b5d3988c09e8737bf4ef74a50
