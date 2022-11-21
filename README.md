@@ -1,7 +1,2 @@
-My first readme
-will edit sooner 
-Alx 
-appp will be added soon
-sooner
-than later
+My Alx project
 
